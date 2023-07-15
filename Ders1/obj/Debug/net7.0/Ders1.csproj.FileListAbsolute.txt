@@ -1,0 +1,15 @@
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\bin\Debug\net7.0\Ders1.exe
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\bin\Debug\net7.0\Ders1.deps.json
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\bin\Debug\net7.0\Ders1.runtimeconfig.json
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\bin\Debug\net7.0\Ders1.dll
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\bin\Debug\net7.0\Ders1.pdb
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\Ders1.csproj.AssemblyReference.cache
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\Ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\Ders1.AssemblyInfoInputs.cache
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\Ders1.AssemblyInfo.cs
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\Ders1.csproj.CoreCompileInputs.cache
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\Ders1.dll
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\refint\Ders1.dll
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\Ders1.pdb
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\Ders1.genruntimeconfig.cache
+C:\Users\barsy\OneDrive\Belgeler\Sites\PatikaConsoleDersler\Ders1\obj\Debug\net7.0\ref\Ders1.dll

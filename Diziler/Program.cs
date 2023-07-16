@@ -1,7 +1,7 @@
 ﻿﻿using System;
 using System.Linq;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace Diziler
 {
     internal class Program
     {

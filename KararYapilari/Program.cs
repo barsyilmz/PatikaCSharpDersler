@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Condition_Statements
+namespace KararYapilari
 {
 	public class Program
 	{

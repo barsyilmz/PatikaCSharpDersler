@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Switch_Case
+namespace SwitchCase
 {
 	public class Program
 	{

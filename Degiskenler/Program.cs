@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ders1;
+namespace Degiskenler;
 class Program
 {
     static void Main(string[] args)

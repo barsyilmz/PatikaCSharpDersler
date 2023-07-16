@@ -5,7 +5,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        byte b = 5;     //1byte
+            /*
+			byte b = 5;     //1byte
 			sbyte c = 5;    //1byte
 
 			short s = 5;    //2byte
@@ -79,6 +80,7 @@ class Program
 
 			string datetime3 = DateTime.Now.ToString("HH:mm");
 			Console.WriteLine(datetime3);
+			*/
         
     }
 }

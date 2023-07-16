@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace String_Methods
+namespace StringMetotlar
 {
 	public class Program
 	{

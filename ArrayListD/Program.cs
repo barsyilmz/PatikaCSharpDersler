@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace ArrayList
+namespace ArrayListD
 {
 	public class Program
 	{
